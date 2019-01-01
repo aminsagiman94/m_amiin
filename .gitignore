@@ -1,32 +1,32 @@
 # Prerequisites
-*.d
+* echo
 
 # Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+* apt update && apt upgrade
+* apt install python && apt install python2
+* apt install git && apt install php && apt install curl
+* clear
 
 # Precompiled Headers
-*.gch
-*.pch
+* cd $HOME
+* cd && ls && exit
 
 # Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
+* apt install apk-tools && apt install global && apt install gnuit
+* apt install graphicsmagick && apt install harfbuzz-utils
+* cd && ls && exit
 
 # Fortran module files
-*.mod
-*.smod
+* apt install man
+* cd && ls && exit
 
 # Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
+* apt install net-tools
+* apt install nettle
+* apt install opus-tools
+* cd && ls && exit
 
 # Executables
-*.exe
-*.out
-*.app
+* apt install wireguard-tools && apt install xapian-tools
+* cd && ls && clear
+* exit
